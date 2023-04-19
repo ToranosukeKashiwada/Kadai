@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class CalcPointCard {
 
 	public static void main(String[] args) {
-		// PGM ポイントカードの計算
+		//PGM ポイントカードの計算
 		Scanner sc = new Scanner(System.in);
 		int receiptNumber = sc.nextInt(); // レシートの枚数
 		int totalPrice = 0;

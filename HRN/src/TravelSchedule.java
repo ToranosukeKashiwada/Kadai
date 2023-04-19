@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class TravelSchedule {
 
 	public static void main(String[] args) {
-		// PGM 旅行の日程
+		//PGM 旅行の日程
 		Scanner sc = new Scanner(System.in);
 		int M = sc.nextInt(); //M = 休日の日数
 		int N = sc.nextInt(); //N = 旅行の日数

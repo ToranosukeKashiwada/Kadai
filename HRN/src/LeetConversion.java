@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class LeetConversion {
 
 	public static void main(String[] args) {
-		// PGM Leet変換
+		//PGM Leet変換
 		Scanner sc = new Scanner(System.in);
 		String s = sc.nextLine();		
 		String outString = s
