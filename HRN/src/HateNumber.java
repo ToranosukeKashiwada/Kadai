@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class HateNumber {
 
 	public static void main(String[] args) {
-		//PGM 嫌いな数字
+		// PGM 嫌いな数字
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt(); //n = 嫌いな数字
 		int m = sc.nextInt(); //m = 部屋の数
