@@ -13,7 +13,7 @@ public class BookPurchaseCostRanking {
 
 	public class Main {
 		public static void main(String args[]) throws Exception {
-			// PGM 書籍購入ランキング
+			//PGM 書籍購入ランキング
 			Scanner sc = new Scanner(System.in);
 			//入力から社員の人数取得
 			int N = sc.nextInt();
